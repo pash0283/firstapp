@@ -4,5 +4,5 @@
 /**
  * 
  */
-module j01_first {
+module j01 {
 }
